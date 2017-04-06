@@ -70,3 +70,7 @@ body,html {
 	border:1px double black;
 }
 
+#H7 {
+	position:absolute;
+	margin:100%;
+}
